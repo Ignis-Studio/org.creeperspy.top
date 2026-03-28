@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Ignis Studio",
   description: "CreeperIsSpy‘s Collaborating Organization",
-  
+  cleanUrls: true,
+
   themeConfig: {
     logo: '/logo.png',
     

@@ -19,7 +19,7 @@ hero:
 features:
   - title: IgnisCAD
     details: A wrapper for the build123d library, designed for AI agents.
-    link: https://org.creeperspy.top/IgnisCAD 
+    link: /IgnisCAD
   - title: JustExecute
     details: A small tool that allows AI to run commands.
     link: https://github.com/Ignis-Studio/JustExecute 
