@@ -18,9 +18,12 @@ hero:
 
 features:
   - title: IgnisCAD
-    details: A wrapper for the build123d library, designed for AI agents. 
+    details: A wrapper for the build123d library, designed for AI agents.
+    link: https://org.creeperspy.top/IgnisCAD 
   - title: JustExecute
-    details: A small tool that allows AI to run commands. 
+    details: A small tool that allows AI to run commands.
+    link: https://github.com/Ignis-Studio/JustExecute 
   - title: PCL-Log-Viewer
     details: Yet another log viewer for Plain Craft Launcher 2 (and its community edition). 
+    link: https://github.com/Ignis-Studio/PCL-Log-Viewer
 ---
